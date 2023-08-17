@@ -1,0 +1,15 @@
+window["env"] = {
+  APP_DOC_TITLE: "Luminate Map Dashboard",
+  APP_CLIENT_ID: "7db20ea7-5bbe-4431-80f9-7e6b0a9da585",
+  APP_POLICY_NAME: "b2c_1a_signin",
+  APP_TENANT_HOST: "blueyonderinteroptestus.onmicrosoft.com",
+  APP_B2C_DOMAIN_HOST: "blueyonderinteroptestus.b2clogin.com",
+  APP_PORTAL_HOST: "http://localhost:7777",
+  DEFAULT_SCOPE: "https://blueyonderinteroptestus.onmicrosoft.com/5c1363de-fad6-4b80-ab71-7d2e24bfc66a/access",
+  MAP_SERVICE_URL: "https://api-tst.jdadelivers.com/lui/map/v1",
+  MAP_REGISTRATION_URL: "https://api-tst.jdadelivers.com/lui/mapreg/v1",
+  LCT_PROCESS_MODEL_SERVICE_URL: "https://api-tst.jdadelivers.com/lct/processmodel/v1",
+  AZURE_MAP_ACCOUNT_KEY: "",
+  AUTH_STATIC_TOKEN: 'STATIC_TOKEN',
+  AUTH_METHOD: "MSAL",
+};

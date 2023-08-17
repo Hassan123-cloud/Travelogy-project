@@ -1,0 +1,1 @@
+export { GlobalLCTFilter as default } from '../components/GlobalLCTFilter.js';

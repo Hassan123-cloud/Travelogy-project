@@ -1,0 +1,23 @@
+name: Code QL Scan
+on:
+  workflow_dispatch:
+    
+jobs:
+  scan:
+    name: Run CodeQL security scans
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 2
+      - uses: actions/setup-node@v2
+        with:
+          node-version-file: '.nvmrc'
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@v1
+        with:
+          config-file: ./.github/codeql/codeql-configuration.yml
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@v1

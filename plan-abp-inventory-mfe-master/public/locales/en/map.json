@@ -1,0 +1,37 @@
+{
+    "title": "Map title",
+    "weatherLegendLabel": {
+        "weatherLegend": "Weather Legend",
+        "rain": "Rain",
+        "snow": "Snow",
+        "ice": "Ice",
+        "mix": "Mix",
+        "light": "Light",
+        "severe": "Severe"
+    },
+    "filterControls": {
+        "placeholderSearchBox": "Search",
+        "inTransitShipments": "In Transit Shipments",
+        "locationWithInventoryExceptions": "Location with Inventory Exceptions",
+        "warehouseCapacity": "Warehouse Capacity"
+    },
+    "ShipmentDrawer": {
+        "progressTabLabel": "Progress",
+        "linesTabLabel": "Lines",
+        "buttonActionLabel": "Shipment Details",
+        "noData": "No Data to be Displayed"
+    },
+    "ClusterDrawer": {
+        "noData": "No Data to be Displayed"
+    },
+    "ClusterDrawerWithExpansion": {
+        "noData": "No Data to be Displayed"
+    },
+    "popup": {
+        "unknownLabel": "Unknown"
+    },
+    "globalFilter": {
+        "setGlobalFilterLabel": "Set Global Filters",
+        "globalFilterAppliedLabel": "Global Filters Applied"
+    }
+}

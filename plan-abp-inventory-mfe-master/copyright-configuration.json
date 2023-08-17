@@ -1,0 +1,9 @@
+{
+  "headerFile": "./actions//copyright-applier/templates/copyright-template-ts.txt",
+  "style": "SlashStar",
+  "includes": ["src/**/*.ts*"],
+  "excludes": ["vendor/**/*"],
+  "data": {
+    "Owner": "BLUE YONDER GROUP, INC."
+  }
+}

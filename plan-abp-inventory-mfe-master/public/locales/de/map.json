@@ -1,0 +1,37 @@
+{
+  "title": "Karte Titel",
+  "weatherLegendLabel": {
+    "weatherLegend": "Wetterlegende",
+    "rain": "Regen",
+    "snow": "Schnee",
+    "ice": "Eis",
+    "mix": "Mischen",
+    "light": "Licht",
+    "severe": "Stark"
+  },
+  "filterControls": {
+    "placeholderSearchBox": "Suche",
+    "inTransitShipments": "In Transit Sendungen",
+    "locationWithInventoryExceptions": "Standort mit Inventarausnahmen",
+    "warehouseCapacity": "Lagerkapazität"
+  },
+  "ShipmentDrawer": {
+    "progressTabLabel": "Fortschritt",
+    "linesTabLabel": "Linien",
+    "buttonActionLabel": "Versanddetails",
+    "noData": "Es werden keine Daten angezeigt"
+  },
+  "ClusterDrawer": {
+    "noData": "Es werden keine Daten angezeigt"
+  },
+  "ClusterDrawerWithExpansion": {
+    "noData": "Es werden keine Daten angezeigt"
+  },
+  "popup": {
+    "unknownLabel": "Unbekannt"
+  },
+  "globalFilter": {
+    "setGlobalFilterLabel": "Globale Filter festlegen",
+    "globalFilterAppliedLabel": "Globale Filter angewendet"
+}
+}

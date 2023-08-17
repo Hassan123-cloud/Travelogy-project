@@ -1,0 +1,9 @@
+{
+  "labels": {
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Info",
+    "success": "Success",
+    "default": "Default"
+  }
+}

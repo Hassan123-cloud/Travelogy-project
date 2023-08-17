@@ -1,0 +1,23 @@
+.app {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+[class*='luiBg'],
+.app > [class*='MuiBox'] {
+  overflow: initial !important;
+}
+
+/*
+==============================
+TEMPORARY STYLES
+==============================
+*/
+[class*='-collapsed-'][class*='west'] {
+  padding-right: 8px;
+}
+
+[class*='-collapsed-'][class*='west'] [class*='minimizedCard'] {
+  width: 100%;
+}

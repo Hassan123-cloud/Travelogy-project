@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --components-button-large: Roboto;
+  --font-baloo-bhai: "Baloo Bhai";
+
+  /* font sizes */
+  --font-size-2xs: 14px;
+  --components-button-large-size: 15px;
+  --font-size-sm: 16px;
+  --font-size-base: 18px;
+  --font-size-lg: 20px;
+  --font-size-xl: 22px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 30px;
+  --font-size-4xl: 32px;
+  --font-size-5xl: 38px;
+
+  /* Colors */
+  --studio-darkmode-allwhite-ffffff: #fff;
+  --color-orange-100: #f99a0e;
+  --color-gray-100: #eaeaea;
+  --color-gray-200: #ccdcec;
+  --color-gray-300: #999;
+  --color-gray-400: #8e8e94;
+  --color-gray-500: #1262af;
+  --color-gray-600: #1262ae;
+  --color-gray-700: #424242;
+  --color-gray-800: #303030;
+  --color-gray-900: rgba(226, 226, 226, 0.1);
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-4xs: 3px;
+  --gap-3xs: 5px;
+  --gap-2xs: 6px;
+  --gap-xs: 8px;
+  --gap-sm: 10px;
+  --gap-md: 11px;
+  --gap-lg: 20px;
+  --gap-xl: 21px;
+  --gap-2xl: 23px;
+  --gap-3xl: 24px;
+  --gap-4xl: 30px;
+  --gap-5xl: 36px;
+
+  /* Paddings */
+  --padding-5xs: 5px;
+  --padding-4xs: 8px;
+  --padding-3xs: 10px;
+  --padding-2xs: 12px;
+  --padding-xs: 13px;
+  --padding-sm: 15px;
+  --padding-md: 16px;
+  --padding-lg: 20px;
+  --padding-xl: 22px;
+  --padding-2xl: 24px;
+  --padding-3xl: 30px;
+  --padding-4xl: 40px;
+  --padding-5xl: 80px;
+
+  /* border radiuses */
+  --br-xs: 4px;
+  --br-sm: 8px;
+  --br-md: 10px;
+  --br-lg: 16px;
+  --br-xl: 31px;
+}

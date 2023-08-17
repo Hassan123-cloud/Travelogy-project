@@ -1,0 +1,16 @@
+{
+  "description": "Luminate Map",
+  "displayName": "Luminate Map",
+  "enabled": true,
+  "frameUrl": "https://bylummapspltna.azureedge.net",
+  "headerName": "Luminate Map",
+  "icon": "map",
+  "iconColor": "#0BDEC5",
+  "namespace": "luminate-map",
+  "showNavigation": false,
+  "tenant": "GLOBAL",
+  "types": [
+    "appGallery"
+  ],
+  "id": "5fd13513f100eb0030126e57"
+}

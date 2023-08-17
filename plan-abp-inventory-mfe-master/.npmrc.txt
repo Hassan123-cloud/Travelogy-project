@@ -1,0 +1,3 @@
+_auth = aGFzc2FuLmFmdGFiQGJsdWV5b25kZXIuY29tOkFQMzNad05KWVdEeG9rUURTem1CaG8zRXk1aA==
+email = Hassan.Aftab@blueyonder.com
+always-auth = true

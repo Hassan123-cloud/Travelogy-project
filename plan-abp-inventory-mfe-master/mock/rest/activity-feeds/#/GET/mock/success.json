@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": "5ee76bbe21b581003e5d3672",
+      "publishedOn": "2020-07-21T09:51:13.964Z",
+      "extFields": "{\"actorId\": \"c9db7a32-252b-4be1-8379-78e3aa675f21\", \"actorName\": \"John Doe\", \"action\": \"commented on\", \"destination\": \"Investigation Product Order#3456\", \"avatar\": \"https://www.w3schools.com/howto/img_avatar.png\"}",
+      "online": true,
+      "userReadFlag": false,
+      "severity": 1,
+      "description": "Valentine week 10% demand increase for Ambassador chocolates, 20% demand increase for the Soft Toys and 30% demand increase for the Greating Cards."
+    },
+    {
+      "id": "5ee76bbe21b581003e5d3673",
+      "publishedOn": "2020-07-20T09:51:13.964Z",
+      "extFields": "{\"actorId\": \"c9db7a32-252b-4be1-8379-78e3aa675f21\", \"actorName\": \"John Perez\", \"action\": \"added Keith R to\", \"destination\": \"Investigation Product Order#4528\", \"avatar\": \"https://www.w3schools.com/howto/img_avatar.png\"}",
+      "online": true,
+      "userReadFlag": true
+    },
+    {
+      "id": "5ee76bbe21b581003e5d3674",
+      "publishedOn": "2020-07-12T10:51:13.964Z",
+      "extFields": "{\"actorId\": \"c9db7a32-252b-4be1-8379-78e3aa675f21\", \"actorName\": \"John Fernandez\", \"action\": \"left\", \"destination\": \"Investigation Product Order#2496\", \"avatar\": \"https://www.w3schools.com/howto/img_avatar.png\"}",
+      "online": false,
+      "userReadFlag": false,
+      "severity": 2
+    },
+    {
+      "id": "5ee76bbe21b581003e5d3675",
+      "publishedOn": "2020-06-12T09:51:13.964Z",
+      "extFields": "{\"actorId\": \"c9db7a32-252b-4be1-8379-78e3aa675f21\", \"actorName\": \"Peter Doe\", \"action\": \"was not impressed\"}",
+      "online": false,
+      "userReadFlag": true
+    }
+  ]
+}
